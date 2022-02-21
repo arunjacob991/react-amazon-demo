@@ -1,0 +1,24 @@
+.home{
+    padding-top: 7rem;
+    padding-bottom: 5rem;
+    background-color: rgb(190, 188, 188);
+    
+}
+.banner{
+    padding-top: 10rem;
+    width: 100%;
+    height: 34rem;
+    background: url(../public/home-banner.jpg) no-repeat;
+    background-size: cover;
+}
+.shady{
+    height: 50%;
+    z-index: 1;
+    margin-top: 17rem;
+    background: linear-gradient(0deg, rgba(190,188,188) 0%, rgba(0,0,0,1) 100%);
+}
+.home-row{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 3rem;
+}

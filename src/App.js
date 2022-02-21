@@ -1,8 +1,15 @@
+import Header from "./Header";
+import Home from "./Home";
+
 
 function App() {
   return (
     <div className="App">
-        React Amazon Demo
+
+        
+        <Header />
+        <Home />
+        
     </div>
   );
 }
