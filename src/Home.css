@@ -21,4 +21,7 @@
     display: flex;
     justify-content: space-around;
     margin-bottom: 3rem;
+    gap: 4rem;
+    padding: 1rem 3rem;
 }
+
